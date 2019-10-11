@@ -9,5 +9,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 Contains Solutions to weekly programming assignments.They will be programmed in python and C++.
 Feel free to comment the code and send pull requests.
 
+### Link to the Course: 
+https://www.coursera.org/learn/algorithmic-toolbox
 ### To Do:
 Comment the Codes
