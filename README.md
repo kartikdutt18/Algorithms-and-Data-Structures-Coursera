@@ -12,4 +12,4 @@ Feel free to comment the code and send pull requests.
 ### Link to the Course: 
 https://www.coursera.org/learn/algorithmic-toolbox
 ### To Do:
-Comment the Codes
+Comment the Codes.
