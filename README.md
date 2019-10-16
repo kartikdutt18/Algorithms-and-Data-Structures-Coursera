@@ -15,5 +15,22 @@ https://www.coursera.org/learn/algorithmic-toolbox
 ### Running CPP/Python Files:
 Refer standard input and output from the PDF in the folder enclosing the file.
 
+###### Running Python:
+```
+python3 filename
+```
+###### Running C++:
+
+```
+g++ -o output_filename cpp_file_name
+./output_filename
+```
+
+You can also provide input as text files.
+
+```
+./output_filename < input.txt >output.txt
+```
+
 ### To Do:
 Comment the Codes.
