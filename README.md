@@ -11,5 +11,9 @@ Feel free to comment the code and send pull requests.
 
 ### Link to the Course: 
 https://www.coursera.org/learn/algorithmic-toolbox
+
+### Running CPP/Python Files:
+Refer standard input and output from the PDF in the folder enclosing the file.
+
 ### To Do:
 Comment the Codes.
