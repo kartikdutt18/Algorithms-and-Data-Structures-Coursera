@@ -6,7 +6,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
 
 ### About this Repo
 
-Contains Solutions to weekly programming assignments.They will be programmed in python and C++.
+Contains Solutions to weekly programming assignments for Data Structures and Algorithms Course on Coursera.They will be programmed in python and C++.
 Feel free to comment the code and send pull requests.
 
 ### Link to the Course: 
